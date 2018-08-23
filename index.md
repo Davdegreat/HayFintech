@@ -7,3 +7,5 @@ All open source projects are released under a permissive MIT license.
 
 * [bitcoinlib](https://github.com/cryptean/bitcoinlib) - Bitcoin Core RPC
 compatible, battle-tested .NET library and RPC wrapper for Bitcoin and Altcoins.
+* [bitcoincore-json-rpc-diff](https://github.com/cryptean/bitcoincore-json-rpc-diff) -
+Diff between versions of Bitcoin Core JSON-RPC API.
